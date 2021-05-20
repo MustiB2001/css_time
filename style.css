@@ -1,0 +1,54 @@
+
+.header{
+    width: inherit;
+    border-radius: 5px;
+    background-color: cadetblue;
+    max-width: inherit;
+    height: 70px;
+
+
+}
+.box{
+    background-color: whitesmoke;
+    height: 300px;
+    width: 500px;
+    border-radius:5px;
+    position: relative;
+    margin: auto;
+    outline: black solid 1px;
+    
+}
+.bottom_box{
+    width: 500px;
+    height: 300px;
+    position: absolute;
+    top:90px;
+}
+.container{
+    position: relative;
+}
+h2{
+    font-family: cursive;
+    font-size: inherit;
+}
+.pfp{
+    position:absolute;
+    top:30px;
+    left: 20px;
+}
+.grinderimg{
+    left: 20px;
+
+}
+.box_text{
+    position: absolute;
+    left: 10px;
+    top: 10px;
+
+}
+.name{
+    font-size: 20px;
+    top: 10px;
+}
+
+
